@@ -21,7 +21,7 @@ We can connect to any GPIO pins, remember to change in code.
 - **Sensor**
   - If you set the trigger pin to high for 5-10 micro seconds it transmits 8 pulses at 40 KHz which is done to distinguish this from other ultrasonic noise. Then echo pins goes high and remains so until sensor detects the wave back, it has a time out of 38ms. [for more](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/).
  - **Range**
-  - 2cm to 400cm, but in real use below 4 cm it's inaccurate.
+  - 2cm to 400cm, but in real use below 4 cm it's inaccurate so warnings are there.
   
 
 
