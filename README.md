@@ -12,7 +12,7 @@ Sensor - Pico
 - **Send:** TRIG - GP1 
 - **Recieve:** ECHO - GP0
 
-We can connect to any GPIO pins, remember to change in code.
+We can connect to any GPIO pins but remember to change in code.
 
 ## Setup
 
